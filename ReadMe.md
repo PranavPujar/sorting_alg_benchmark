@@ -15,7 +15,7 @@ This repo contains implementations of **Selection Sort**, **Insertion Sort**, an
 
 ### Benchmark
 
-![sorting_algorithms_benchmark]() add image here
+![sorting_algorithms_benchmark](benchmark_results.png) 
 
 ### Proving Selection Sort's Correctness
 
