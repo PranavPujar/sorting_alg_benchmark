@@ -1,6 +1,6 @@
 # BUBBLE SORT
 
-def bubble_sort(arr):
+def bubbleSort(arr):
     # n iterations of the outer loop
     for n in range(len(arr) - 1, 0, -1):
 
@@ -14,5 +14,5 @@ def bubble_sort(arr):
 # # Example Usage
 # arr = [4, 67, 3, 6, 8, 94, 3, 52, 23, 87, 11, 31]
 # print(f'Array before sorting: {arr}')
-# bubble_sort(arr)
+# bubbleSort(arr)
 # print(f'Array after sorting: {arr}')

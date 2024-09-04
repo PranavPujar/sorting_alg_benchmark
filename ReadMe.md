@@ -55,6 +55,5 @@ Ensure that Python 3.11.5 (or later) is installed on your machine.
 Two dependencies need to be installed by running the following commands:
 
 ```sh
-pip install timeit
 pip install matplotlib
 ```
